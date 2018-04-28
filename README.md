@@ -17,7 +17,7 @@
 
 #### 下载项目
 
-    1.git clone https://github.com/HWN/LaravelElement.git
+    1. git clone https://github.com/HWN/LaravelElement.git
 
 #### laravel 配置
     1. cp .evn.example .env
