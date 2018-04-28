@@ -22,7 +22,7 @@
 #### laravel 配置
     1. cp .evn.example .env
 
-    2. composer install
+    2. composer install //laravel 相关依赖包安装
 
     3  本地开发域名配置我就不多废话了
 
@@ -30,8 +30,9 @@
 
 #### vue 配置（VUE、Element-UI、vue-router）
 
-    npm install // 速度慢的请自行切换淘宝镜像 cnpm
-    npm run dev
+    1. npm install // 速度慢的请自行切换淘宝镜像 cnpm
+    
+    2. npm run dev // 跑起来
 
 ##访问
 
